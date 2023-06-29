@@ -15,7 +15,7 @@ Menu não está funcionando; <br>
 Sistema de temporização da fase;<br>
 Menu de Pause.<br>
 
-<h4>Tutora</h4>
+<h4>Tutora:</h4>
 Mariane Joaquim Melo; <br>
 
 <h4>Autores: </h4>
